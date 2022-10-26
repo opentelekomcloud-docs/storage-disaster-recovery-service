@@ -82,13 +82,13 @@ Response
       +-----------------------+-----------------------+--------------------------------------------------------------------------------------+
       | quota                 | Integer               | Specifies the resource quota.                                                        |
       |                       |                       |                                                                                      |
-      |                       |                       | If the value is **–1**, the resource is not limited.                                 |
+      |                       |                       | If the value is **-1**, the resource is not limited.                                 |
       +-----------------------+-----------------------+--------------------------------------------------------------------------------------+
       | min                   | Integer               | Specifies the minimally allowed resource quota.                                      |
       +-----------------------+-----------------------+--------------------------------------------------------------------------------------+
       | max                   | Integer               | Specifies the maximally allowed resource quota.                                      |
       |                       |                       |                                                                                      |
-      |                       |                       | If the value is **–1**, the resource is not limited.                                 |
+      |                       |                       | If the value is **-1**, the resource is not limited.                                 |
       +-----------------------+-----------------------+--------------------------------------------------------------------------------------+
 
 -  Example response
