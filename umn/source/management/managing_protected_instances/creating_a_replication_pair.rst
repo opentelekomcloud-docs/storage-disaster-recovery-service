@@ -46,7 +46,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0288665399.png
       :alt: **Figure 1** Creating a replication pair
 
-
       **Figure 1** Creating a replication pair
 
 #. Configure the basic information about the replication pair listed in :ref:`Table 1 <en-us_topic_0110037559__table14113172215131>`.

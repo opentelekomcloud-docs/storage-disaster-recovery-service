@@ -18,5 +18,4 @@ SDRS provides cross-AZ server-level protection (RPO = 0) in case applications at
 .. figure:: /_static/images/en-us_image_0288665371.png
    :alt: **Figure 1** Cross-AZ DR configuration process
 
-
    **Figure 1** Cross-AZ DR configuration process

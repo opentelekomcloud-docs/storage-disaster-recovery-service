@@ -13,5 +13,4 @@ Recovery Time Objective (RTO): the maximum service interruption duration tolerat
 .. figure:: /_static/images/en-us_image_0288665392.png
    :alt: **Figure 1** RPO and RTO
 
-
    **Figure 1** RPO and RTO

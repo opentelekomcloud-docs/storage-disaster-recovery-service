@@ -16,7 +16,6 @@ SDRS protects your service applications by replicating the server data and confi
 .. figure:: /_static/images/en-us_image_0288665328.png
    :alt: **Figure 1** Storage DR
 
-
    **Figure 1** Storage DR
 
 DR and Backup

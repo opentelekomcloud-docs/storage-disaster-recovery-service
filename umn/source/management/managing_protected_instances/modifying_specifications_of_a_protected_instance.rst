@@ -42,7 +42,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0288665266.png
       :alt: **Figure 1** Modifying specifications
 
-
       **Figure 1** Modifying specifications
 
 #. In the displayed dialog box, select new server type, vCPU, and memory specifications.
@@ -52,7 +51,6 @@ Procedure
 
    .. figure:: /_static/images/en-us_image_0288665326.png
       :alt: **Figure 2** Modifying the specifications of both the production site server and DR site server
-
 
       **Figure 2** Modifying the specifications of both the production site server and DR site server
 

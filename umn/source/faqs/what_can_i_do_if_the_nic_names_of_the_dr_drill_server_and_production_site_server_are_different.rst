@@ -18,7 +18,6 @@ A production site server running Novell SUSE Linux Enterprise Server 12 SP3 64-b
 .. figure:: /_static/images/en-us_image_0288665316.png
    :alt: **Figure 1** Production site server NIC names
 
-
    **Figure 1** Production site server NIC names
 
 Log in to the DR drill server and query the NIC names (eth5 to eth9).
@@ -26,7 +25,6 @@ Log in to the DR drill server and query the NIC names (eth5 to eth9).
 
 .. figure:: /_static/images/en-us_image_0288665320.png
    :alt: **Figure 2** DR drill server NIC names
-
 
    **Figure 2** DR drill server NIC names
 

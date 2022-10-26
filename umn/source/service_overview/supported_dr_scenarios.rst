@@ -16,7 +16,6 @@ Production Site Is Faulty
    .. figure:: /_static/images/en-us_image_0288665307.png
       :alt: **Figure 1** Production site being faulty
 
-
       **Figure 1** Production site being faulty
 
 -  Solution
@@ -36,7 +35,6 @@ DR Site Is Faulty
    .. figure:: /_static/images/en-us_image_0288665264.png
       :alt: **Figure 2** DR site being faulty
 
-
       **Figure 2** DR site being faulty
 
 -  Solution
@@ -54,7 +52,6 @@ Replication Link Is Faulty
    .. figure:: /_static/images/en-us_image_0288665385.png
       :alt: **Figure 3** Replication link being faulty
 
-
       **Figure 3** Replication link being faulty
 
 -  Solution
@@ -71,7 +68,6 @@ Storage Resource at the Production Site Is Faulty
 
    .. figure:: /_static/images/en-us_image_0288665263.png
       :alt: **Figure 4** Storage resource at the production site is faulty
-
 
       **Figure 4** Storage resource at the production site is faulty
 
@@ -91,7 +87,6 @@ Storage Resource at the DR Site Is Faulty
 
    .. figure:: /_static/images/en-us_image_0288665319.png
       :alt: **Figure 5** Storage resource at the DR site being faulty
-
 
       **Figure 5** Storage resource at the DR site being faulty
 

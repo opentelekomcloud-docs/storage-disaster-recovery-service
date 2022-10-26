@@ -26,7 +26,6 @@ To ensure that a failover can be properly performed if a disaster happens, you a
    .. figure:: /_static/images/en-us_image_0288665327.png
       :alt: **Figure 1** Performing a DR drill
 
-
       **Figure 1** Performing a DR drill
 
 Notes

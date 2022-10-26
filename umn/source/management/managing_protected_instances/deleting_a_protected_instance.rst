@@ -40,7 +40,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0288665372.png
       :alt: **Figure 1** Deleting a protected instance
 
-
       **Figure 1** Deleting a protected instance
 
 #. On the **Delete Protected Instance** page, select the desired operation.

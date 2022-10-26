@@ -48,7 +48,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0288665386.png
       :alt: **Figure 1** Detaching a replication pair
 
-
       **Figure 1** Detaching a replication pair
 
 #. Select the replication pair to be detached and click **Yes**.

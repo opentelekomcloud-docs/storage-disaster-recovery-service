@@ -23,7 +23,6 @@ SDRS will migrate NICs on the server during the failover. After the failover, th
 .. figure:: /_static/images/en-us_image_0288665280.png
    :alt: **Figure 1** Performing a failover
 
-
    **Figure 1** Performing a failover
 
 Notes
