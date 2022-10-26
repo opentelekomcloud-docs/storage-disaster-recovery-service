@@ -16,7 +16,6 @@ When data is written to the disks of the production site server, SDRS synchroniz
 .. figure:: /_static/images/en-us_image_0288665401.png
    :alt: **Figure 1** Enabling protection
 
-
    **Figure 1** Enabling protection
 
 **Prerequisites**
@@ -40,7 +39,6 @@ Procedure
 
    .. figure:: /_static/images/en-us_image_0288665358.png
       :alt: **Figure 2** Enabling protection
-
 
       **Figure 2** Enabling protection
 

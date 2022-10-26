@@ -16,7 +16,6 @@ Verify the servers at the production and DR sites before you create a protection
 .. figure:: /_static/images/en-us_image_0288665357.png
    :alt: **Figure 1** Creating a protection group
 
-
    **Figure 1** Creating a protection group
 
 Procedure
@@ -35,7 +34,6 @@ Procedure
 
    .. figure:: /_static/images/en-us_image_0288665274.png
       :alt: **Figure 2** Creating a protection group
-
 
       **Figure 2** Creating a protection group
 

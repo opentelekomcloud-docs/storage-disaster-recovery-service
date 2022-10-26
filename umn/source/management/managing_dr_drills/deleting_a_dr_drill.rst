@@ -36,7 +36,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0288665377.png
       :alt: **Figure 1** Deleting a DR drill
 
-
       **Figure 1** Deleting a DR drill
 
    .. note::

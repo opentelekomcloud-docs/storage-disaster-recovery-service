@@ -40,7 +40,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0288665400.png
       :alt: **Figure 1** Deleting a replication pair
 
-
       **Figure 1** Deleting a replication pair
 
    .. note::

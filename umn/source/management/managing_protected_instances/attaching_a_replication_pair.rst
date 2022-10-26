@@ -41,7 +41,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0288665398.png
       :alt: **Figure 1** Attaching a replication pair
 
-
       **Figure 1** Attaching a replication pair
 
 #. Select the replication pair to be attached and a desired device name, and click **OK**.

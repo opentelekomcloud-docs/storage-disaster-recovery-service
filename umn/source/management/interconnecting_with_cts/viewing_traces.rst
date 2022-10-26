@@ -40,7 +40,6 @@ Procedure
    .. figure:: /_static/images/en-us_image_0288665281.png
       :alt: **Figure 1** Expanding trace details
 
-
       **Figure 1** Expanding trace details
 
 #. Locate a trace and click **View Trace** in the **Operation** column.

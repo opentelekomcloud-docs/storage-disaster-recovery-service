@@ -18,7 +18,6 @@ The server at the DR site is in the Stopped state after the protected instance c
 .. figure:: /_static/images/en-us_image_0288665321.png
    :alt: **Figure 1** Creating a protected instance
 
-
    **Figure 1** Creating a protected instance
 
 Notes
@@ -72,7 +71,6 @@ Procedure
 
    .. figure:: /_static/images/en-us_image_0288665405.png
       :alt: **Figure 2** Creating a protected instance
-
 
       **Figure 2** Creating a protected instance
 
