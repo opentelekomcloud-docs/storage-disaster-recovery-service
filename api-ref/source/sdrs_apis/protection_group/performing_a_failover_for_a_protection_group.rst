@@ -34,7 +34,7 @@ In the following example, Server A and server B are deployed. :ref:`Table 1 <sdr
 .. table:: **Table 1** Servers before and after a planned failover or failover
 
    ====== ====================== =============================
-   -      Production Site Server Disaster Recovery Site Server
+   ``-``  Production Site Server Disaster Recovery Site Server
    ====== ====================== =============================
    Before Server A               Server B
    After  Server B               Server A
