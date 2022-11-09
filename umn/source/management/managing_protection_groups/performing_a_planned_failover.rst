@@ -15,7 +15,7 @@ After you perform a planned failover, services at the production site are failed
 .. table:: **Table 1** DR direction change after a planned failover
 
    ====== =============== =======
-   -      Production Site DR Site
+   ``-``  Production Site DR Site
    ====== =============== =======
    Before AZ1             AZ2
    After  AZ2             AZ1
