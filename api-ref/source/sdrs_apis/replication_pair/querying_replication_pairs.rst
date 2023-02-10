@@ -189,35 +189,33 @@ Response
 
    .. table:: **Table 3** **record_metadata** field description
 
-      +-----------------------+-----------------------+-------------------------------------------------------------------------------------------------------+
-      | Parameter             | Type                  | Description                                                                                           |
-      +=======================+=======================+=======================================================================================================+
-      | multiattach           | Boolean               | Specifies whether the disk in a replication pair is a shared disk.                                    |
-      +-----------------------+-----------------------+-------------------------------------------------------------------------------------------------------+
-      | bootable              | Boolean               | Specifies whether the disk in a replication pair is a system disk.                                    |
-      +-----------------------+-----------------------+-------------------------------------------------------------------------------------------------------+
-      | volume_size           | Integer               | Specifies the size of the disk in a replication pair. Unit: GB                                        |
-      +-----------------------+-----------------------+-------------------------------------------------------------------------------------------------------+
-      | volume_type           | String                | Specifies the type of the disk in a replication pair.                                                 |
-      |                       |                       |                                                                                                       |
-      |                       |                       | Currently, the value can be **SSD**, **SAS**, **SATA**, **co-p1**, **uh-l1**, **GPSSD**, or **ESSD**. |
-      |                       |                       |                                                                                                       |
-      |                       |                       | -  **SSD**: specifies the ultra-high I/O disk type.                                                   |
-      |                       |                       |                                                                                                       |
-      |                       |                       | -  **SAS**: specifies the high I/O disk type.                                                         |
-      |                       |                       |                                                                                                       |
-      |                       |                       | -  **SATA**: specifies the common I/O disk type.                                                      |
-      |                       |                       |                                                                                                       |
-      |                       |                       | -  **co-p1**: specifies the high I/O (performance-optimized I) disk type.                             |
-      |                       |                       |                                                                                                       |
-      |                       |                       | -  **uh-l1**: specifies the ultra-high I/O (latency-optimized) disk type.                             |
-      |                       |                       |                                                                                                       |
-      |                       |                       | -  **GPSSD**: specifies the general purpose SSD disk type.                                            |
-      |                       |                       |                                                                                                       |
-      |                       |                       | -  **ESSD**: specifies the extreme SSD disk type.                                                     |
-      |                       |                       |                                                                                                       |
-      |                       |                       |    Disks of the **co-p1** and **uh-l1** types are used exclusively for HPC ECSs and SAP HANA ECSs.    |
-      +-----------------------+-----------------------+-------------------------------------------------------------------------------------------------------+
+      +-----------------------+-----------------------+----------------------------------------------------------------------------------------------------+
+      | Parameter             | Type                  | Description                                                                                        |
+      +=======================+=======================+====================================================================================================+
+      | multiattach           | Boolean               | Specifies whether the disk in a replication pair is a shared disk.                                 |
+      +-----------------------+-----------------------+----------------------------------------------------------------------------------------------------+
+      | bootable              | Boolean               | Specifies whether the disk in a replication pair is a system disk.                                 |
+      +-----------------------+-----------------------+----------------------------------------------------------------------------------------------------+
+      | volume_size           | Integer               | Specifies the size of the disk in a replication pair. Unit: GB                                     |
+      +-----------------------+-----------------------+----------------------------------------------------------------------------------------------------+
+      | volume_type           | String                | Specifies the type of the disk in a replication pair.                                              |
+      |                       |                       |                                                                                                    |
+      |                       |                       | The value can be **SSD**, **SAS**, **SATA**, **co-p1**, or **uh-l1**.                              |
+      |                       |                       |                                                                                                    |
+      |                       |                       | -  **SSD**: the ultra-high I/O type                                                                |
+      |                       |                       |                                                                                                    |
+      |                       |                       | -  **SAS**: the high I/O type                                                                      |
+      |                       |                       |                                                                                                    |
+      |                       |                       | -  **SATA**: the common I/O type                                                                   |
+      |                       |                       |                                                                                                    |
+      |                       |                       | -  **co-p1**: the high I/O (performance-optimized I) type                                          |
+      |                       |                       |                                                                                                    |
+      |                       |                       | -  **uh-l1**: the ultra-high I/O (latency-optimized) type                                          |
+      |                       |                       |                                                                                                    |
+      |                       |                       | -  The **co-p1** and **uh-l1** types of disks are used exclusively for HPC ECSs and SAP HANA ECSs. |
+      |                       |                       |                                                                                                    |
+      |                       |                       |    The extreme SSD type is currently not supported.                                                |
+      +-----------------------+-----------------------+----------------------------------------------------------------------------------------------------+
 
 -  Example response
 
