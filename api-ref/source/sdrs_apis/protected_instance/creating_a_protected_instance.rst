@@ -15,7 +15,7 @@ Constraints and Limitations
 
 -  **status** of the protection group must be **available** or **protected**.
 -  No shared disk has been attached to the server.
--  No protected instance has been created using the server.
+-  One server can be used to create only one protected instance.
 -  The server must be in the same VPC as the protection group.
 -  The physical host housing the production site server cannot be a DeH.
 -  If protection is enabled for servers created during capacity expansion of an Auto Scaling (AS) group, these servers cannot be deleted when the capacity of the AS group is reduced.
