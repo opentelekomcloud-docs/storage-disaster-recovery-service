@@ -15,6 +15,7 @@ FAQs
 -  :ref:`Why NICs of DR Site Servers Are Not Displayed After I Perform a Failover? <sdrs_faq_0004>`
 -  :ref:`What Are the Precautions If I Log In to the Production Site Server Using a Key Pair? <sdrs_faq_0005>`
 -  :ref:`Does SDRS Support Automatic Failover? <sdrs_faq_0007>`
+-  :ref:`Why can I not get the password for a Windows DR server before the first failover? <sdrs_faq_win_login_restrictions>`
 
 .. toctree::
    :maxdepth: 1
@@ -30,3 +31,4 @@ FAQs
    why_nics_of_dr_site_servers_are_not_displayed_after_i_perform_a_failover
    what_are_the_precautions_if_i_log_in_to_the_production_site_server_using_a_key_pair
    does_sdrs_support_automatic_failover
+   why_can_i_not_get_the _password_for_a_windows_dr_server_before_the_first_failover
