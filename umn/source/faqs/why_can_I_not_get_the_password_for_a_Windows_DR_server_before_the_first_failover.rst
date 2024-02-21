@@ -2,8 +2,8 @@
 
 .. _sdrs_faq_win_login_restrictions:
 
-Restrictions on getting password for a Windows DR server before the first planned failover
-==========================================================================================
+Why can I not get the password for a Windows DR server before the first failover
+================================================================================
 
 Symptom
 -------
