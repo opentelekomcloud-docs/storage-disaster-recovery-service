@@ -2,8 +2,8 @@
 
 .. _sdrs_faq_win_login_restrictions:
 
-Why can I not get the password for a Windows DR server before the first failover
-================================================================================
+Why can I not get the password for a Windows DR server before the first failover?
+=================================================================================
 
 Symptom
 -------
