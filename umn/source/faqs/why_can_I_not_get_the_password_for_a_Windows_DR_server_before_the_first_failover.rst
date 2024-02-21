@@ -10,7 +10,7 @@ Symptom
 
 For the Windows server with Cloudbase-Init installed and the Key pair is used for server login, if you try to get password for the DR server before the first failover, the error message “Failed to query the password” is displayed.
 
-.. figure:: /_static/images/cust_en-us_image_9998665392.png
+.. figure:: /_static/images/sdrs_faq_win_login_restriction.png
    :alt: **Figure 1** Get password error for DR server before the first failover
 
    **Figure 1** Get password error for DR server before the first failover
