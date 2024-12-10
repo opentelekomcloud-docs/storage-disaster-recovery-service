@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'sdrs-umn.tex',
-     u'Storage Disaster Recovery Service - User Guide',
+    u'Storage Disaster Recovery Service - User Guide',
      u'OpenTelekomCloud', 'manual'),
 ]
 

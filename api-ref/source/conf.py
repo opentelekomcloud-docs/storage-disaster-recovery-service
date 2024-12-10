@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'sdrs-api-ref.tex',
-     u'Storage Disaster Recovery Service - API Reference',
+    u'Storage Disaster Recovery Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
