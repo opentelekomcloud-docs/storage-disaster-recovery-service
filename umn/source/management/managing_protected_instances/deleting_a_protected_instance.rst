@@ -61,7 +61,3 @@ Procedure
       -  If you select this option, the DR site server will be deleted, and the EIP bound to the server will be released.
 
 #. Click **Yes**.
-
---------------
-
-Copyright © Huawei Technologies Co., Ltd.
