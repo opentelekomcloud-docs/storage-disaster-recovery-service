@@ -2,8 +2,8 @@
 
 .. _sdrs_05_0000:
 
-SDRS APIs
-=========
+APIs
+====
 
 -  :ref:`Job <sdrs_05_0100>`
 -  :ref:`API Version <sdrs_05_0200>`

@@ -6,6 +6,6 @@ Storage Disaster Recovery Service - API Reference
    :maxdepth: 1
 
    api_usage_guidelines
-   sdrs_apis/index
+   apis/index
    appendixes/index
    change_history
