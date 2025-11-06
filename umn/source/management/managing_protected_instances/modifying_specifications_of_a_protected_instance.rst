@@ -16,8 +16,8 @@ The following scenarios may involve:
 -  Modifying the specifications of the production site server only
 -  Modifying the specifications of the DR site server only
 
-Prerequisites
--------------
+**Prerequisites**
+-----------------
 
 -  The protection group is in the **Available** or **Protecting state**.
 -  The protected instance is in the **Available**, **Protecting**, or **Modifying specifications failed**.
@@ -39,7 +39,7 @@ Procedure
 #. On the **Protected Instances** tab, locate the row containing the target protected instance, click **More** in the **Operation** column, and choose **Modify Production Site Server Specifications** or **Modify DR Site Server Specifications** from the drop-down list.
 
 
-   .. figure:: /_static/images/en-us_image_0168363715.png
+   .. figure:: /_static/images/en-us_image_0288665266.png
       :alt: **Figure 1** Modifying specifications
 
       **Figure 1** Modifying specifications
@@ -49,7 +49,7 @@ Procedure
 #. (Optional) If you need to modify the specifications of both the production site server and DR site server, select **Modify the specifications of both the production and DR site servers**. After you select this item, the system will modify the specifications of both the production site server and DR site server to the same specifications.
 
 
-   .. figure:: /_static/images/en-us_image_0168373790.png
+   .. figure:: /_static/images/en-us_image_0288665326.png
       :alt: **Figure 2** Modifying the specifications of both the production site server and DR site server
 
       **Figure 2** Modifying the specifications of both the production site server and DR site server
