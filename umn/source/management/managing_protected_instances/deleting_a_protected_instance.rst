@@ -8,12 +8,12 @@ Deleting a Protected Instance
 Scenarios
 ---------
 
-If you do not need a protected instance, delete it to cancel the protection relationship between the servers and the protection group.
+If you do not need a protected instance, you can delete it to cancel the protection relationship between the servers and the protection group.
 
 When you delete a protected instance, the production site server in the protected instance will not be deleted, and services at the production site will not be affected.
 
-Prerequisites
--------------
+**Prerequisites**
+-----------------
 
 The protected instance is in the **Available**, **Protecting**, **Failover complete**, **Creation failed**, **Enabling protection failed**, **Disabling protection failed**, **Switchover failed**, **Failover failed**, **Deletion failed**, **Re-enabling protection failed**, **Modifying specifications failed**, **Invalid**, or **Faulty** state.
 
@@ -28,7 +28,7 @@ Procedure
 
 #. In the pane of the protection group for which the protected instance is to be deleted, click **Protected Instances**.
 
-   The protection group details page is displayed.
+   The operation page for the protection group is displayed.
 
 #. On the **Protected Instances** tab, locate the row containing the protected instance to be deleted, click **More** in the **Operation** column, and choose **Delete** from the drop-down list.
 
@@ -37,7 +37,7 @@ Procedure
    The **Delete Protected Instance** page is displayed.
 
 
-   .. figure:: /_static/images/en-us_image_0155735363.png
+   .. figure:: /_static/images/en-us_image_0288665372.png
       :alt: **Figure 1** Deleting a protected instance
 
       **Figure 1** Deleting a protected instance
