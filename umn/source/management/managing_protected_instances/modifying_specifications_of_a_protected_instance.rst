@@ -50,9 +50,9 @@ Procedure
 
 
    .. figure:: /_static/images/en-us_image_0288665326.png
-      :alt: **Figure 2** Modifying the specifications of both the production site server and DR site server
+      :alt: **Figure 2** Modifying the specifications of both the production and DR site servers
 
-      **Figure 2** Modifying the specifications of both the production site server and DR site server
+      **Figure 2** Modifying the specifications of both the production and DR site servers
 
    .. note::
 
