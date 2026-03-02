@@ -26,6 +26,10 @@ Constraints and Limitations
       If the key pair of the production site server has been deleted, create a key pair with the same name.
 
 -  After you create a protected instance and enable protection on servers at the production site, modifications to the **Hostname**, **Name**, **Security Group**, **Agency**, **ECS Group**, **Tags**, and **Auto Recovery** configurations of servers on the production site will not synchronize to the servers at the DR site. You can manually add the configuration items to the servers at the DR site on the management console.
+-  GPU-accelerated, FPGA-accelerated, C6, C9, S9, I9, and M9 ECSs are not supported.
+
+   -  Kunpeng ECSs are not supported.
+   -  x86 ECSs with GPU-accelerated and FPGA-accelerated types are not supported.
 
 URI
 ---
